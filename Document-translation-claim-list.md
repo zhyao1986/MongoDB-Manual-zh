@@ -50,10 +50,10 @@
 | 9.5 [Manage Users and Roles](https://docs.mongodb.com/v4.2/tutorial/manage-users-and-roles/) |          |        |      |
 | 9.5 [Change Your Password and Custom Data](https://docs.mongodb.com/v4.2/tutorial/change-own-password-and-custom-data/) |          |        |      |
 | 9.5 [Collection-Level Access Control](https://docs.mongodb.com/v4.2/core/collection-level-access-control/) |          |        |      |
-| 9.6 [TLS/SSL (Transport Encryption)](https://docs.mongodb.com/v4.2/core/security-transport-encryption/) |  |        |      |
-| 9.6 [Configure `mongod` and `mongos` for TLS/SSL](https://docs.mongodb.com/v4.2/tutorial/configure-ssl/) |          |        |      |
-| 9.6 [TLS/SSL Configuration for Clients](https://docs.mongodb.com/v4.2/tutorial/configure-ssl-clients/) |          |        |      |
-| 9.6 [Upgrade a Cluster to Use TLS/SSL](https://docs.mongodb.com/v4.2/tutorial/upgrade-cluster-to-ssl/) |          |        |      |
+| 9.6 [TLS/SSL (Transport Encryption)](https://docs.mongodb.com/v4.2/core/security-transport-encryption/) | 张遥 |        |      |
+| 9.6 [Configure `mongod` and `mongos` for TLS/SSL](https://docs.mongodb.com/v4.2/tutorial/configure-ssl/) | 张遥 |        |      |
+| 9.6 [TLS/SSL Configuration for Clients](https://docs.mongodb.com/v4.2/tutorial/configure-ssl-clients/) | 张遥 |        |      |
+| 9.6 [Upgrade a Cluster to Use TLS/SSL](https://docs.mongodb.com/v4.2/tutorial/upgrade-cluster-to-ssl/) | 张遥 |        |      |
 | 9.6 [Configure MongoDB for FIPS](https://docs.mongodb.com/v4.2/tutorial/configure-fips/) |          |        |      |
 | 9.7 [Encryption at Rest](https://docs.mongodb.com/v4.2/core/security-encryption-at-rest/) |  |        |      |
 | 9.7 [Configure Encryption](https://docs.mongodb.com/v4.2/tutorial/configure-encryption/) |          |        |      |
